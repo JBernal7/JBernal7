@@ -1,4 +1,5 @@
 ### Hi there 👋
+![IMG_20170923_131902 (2)](https://user-images.githubusercontent.com/100314590/158027930-d2208dee-7789-478b-bb85-9a06168065bc.jpg)
 
 I am a graduated biologist specialized in environmental sciences from the University of Malaga and passionate about the GIS world. Long time ago, the Royal Netherlands Institute for Sea Research (NIOZ) gave me the opportunity to put into practice the knowledge acquired during my training through two projects, after which it would be the International Union for the Conservation of Nature (IUCN) that would allow me to know what are the main tools international organizations have and where the world of conservation is heading at different scales. 
 
